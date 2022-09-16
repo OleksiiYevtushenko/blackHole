@@ -12,3 +12,4 @@ The wormhole and black hole in the movie Interstellar looked pretty awesome. Tra
 
 #### Disclaimer
 the curvature effects you find in this project are not in any way realistic or accurate. You will not find equations based on general relativity and differential geometry here. Everything you see is "hacked" together and merely shows how black holes and wormholes _sort of_ look like from different angles.
+ 
